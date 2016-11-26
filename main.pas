@@ -1,0 +1,6 @@
+# my-first-repo
+PROGRAM MAIN (INPUT, OUTPUT);
+BEGIN
+WRITELN('MAIN');
+READLN
+END.
